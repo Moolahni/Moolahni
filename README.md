@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Moolahni
 - 👀 I’m interested in data analytics, graphic designs and art.
 - 🌱 I’m currently learning SQL and R programming language 
-- 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me Twitter @moolah_s
 
 <!---
